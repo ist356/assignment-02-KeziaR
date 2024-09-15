@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Kezia
+Sudent Email:  knregis@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I did have trouble with correctly implementing the split and strip functions for parse_packaging. When using the function split, the text was not splitting in the area I wanted it to split. Since the code was not functioning properly in packaging, program.py did not run with the correct solution. However, once I saw the solution I understood how lists could be split, so characters could be taken out of the list to be sewen together in a new sentence. I was also reminded of indexing which makes removing a character from a list much eaiser when using split. The JSON moudule was new to me and from this file and loking up the other functions of JSON, I learned that JSON formats data and by using the dumps() function the data in a python dictionary is serialized - data turned into bytes. Therfore, the data can be used in other languages that are compatible with JSON. Overall in this assignment I learned about the JSON modules and I had a memory refreshment on split(), strip(), and indexing.
