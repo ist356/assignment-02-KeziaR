@@ -39,3 +39,4 @@ with open('data/packaging.txt') as f:
         packages.append(package)
         with open('data/packaging.json', 'w') as f:
             json.dump(packages, f, indent=4)
+
